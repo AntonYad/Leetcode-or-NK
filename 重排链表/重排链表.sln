@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "重排链表", "重排链表\重排链表.vcxproj", "{D10C25A6-C898-40B6-B76E-D987BB245833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10C25A6-C898-40B6-B76E-D987BB245833}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D10C25A6-C898-40B6-B76E-D987BB245833}.Debug|Win32.Build.0 = Debug|Win32
+		{D10C25A6-C898-40B6-B76E-D987BB245833}.Release|Win32.ActiveCfg = Release|Win32
+		{D10C25A6-C898-40B6-B76E-D987BB245833}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
